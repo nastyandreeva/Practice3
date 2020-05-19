@@ -12,5 +12,5 @@
 7. [Задание 1.7](https://github.com/nastyandreeva/Practice3/blob/master/Задание%201.7.docx)
 
 Вариативные:
-1. [Задание 2.1]()
-2. [Задание 2.2]()
+1. [Задание 2.1](https://github.com/nastyandreeva/Practice3/blob/master/Задание%202.1.docx)
+2. [Задание 2.2](https://github.com/nastyandreeva/Practice3/blob/master/Задание%202.2.docx)
